@@ -1,0 +1,10 @@
+server:
+  port: ${random.int[8501,19999]}
+management:
+  endpoints:
+    web:
+      exposure:
+        include: info, health, beans, env, metrics
+logging:
+  level:
+    root: error

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="service-b-2.0.2.RELEASE">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/service-b/target/service-b-2.0.2.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
